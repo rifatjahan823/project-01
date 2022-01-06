@@ -1,0 +1,135 @@
+*{margin:0;padding:0;}
+.container{
+	width:80%;
+	margin:0 auto;
+	max-width:960px;
+}
+.fix{
+    display: flex;
+}
+p{
+    margin: 4% 0;
+    line-height: 23px;
+    color:#2d2e2e;
+    text-transform: capitalize;
+}
+h2{
+    text-transform: capitalize; 
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5%;
+    font-family: 'Noto Serif', serif;
+}
+h3{
+    text-transform: capitalize;  
+    font-size: 35px;
+}
+img{
+    width: 100%;
+}
+button{
+    width: 170px;
+    height: 40px;
+    padding: 2px 5px;
+    border: none;;
+    border-radius: 10px;
+    background-color:#FB6756;
+    color: white;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+.head{
+    padding-top:110px;
+}
+.head-title{
+    width:50%;
+}
+.bdr-area{
+    border-left:4px solid #FB6756;
+    height:32%;
+    position: relative;
+    margin-top: 5%;
+}
+.header-title{
+    margin-top: 2px;
+    position: absolute;
+    top: -20px;
+    color:black;
+    font-size: 30px;
+    text-transform: capitalize;
+    line-height: 65px;
+    padding:0px 8px ;
+    font-family: 'Noto Serif', serif;
+    display: block;
+    overflow: hidden;
+}
+.head-title p{
+    margin-top: 6%;
+}
+
+.head-image{
+    width:40%;
+    margin-left: 10%;
+}
+.head-image img{
+    width:80%;
+}
+.mission-area h3 {
+    font-size:25px;
+}
+.mission-2022 img{
+    width:50%;
+}
+.mission-area{
+    padding: 120px 0;
+}
+.mission{
+    background-color:#FB6756;
+    padding: 15px 2%;
+    border-radius: 25px;
+}
+.vission{
+    margin: 0 3%;
+    background-color:  #B7EFF8 ;
+    padding: 15px 2%;
+    border-radius: 25px;
+}
+.goals{
+    background-color: #ecc954;
+    padding: 15px 2%;
+    border-radius: 25px;
+}
+.develop-image{
+    width: 40%;
+    margin-right: 10%;
+}
+.develop-title{
+    width:50%;
+    margin-top: 5%;
+}
+.community-area{
+    padding: 60px 0;
+}
+.community-title{
+    width:50%;
+    margin-top: 5%;
+}
+.community-image{
+    width:40%;
+    margin-left: 10%;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+    padding: 50px 0px;
+    background-color: black;
+    color: white;}
+    footer p{
+       margin: 1% ;
+       color:white;
+    }
+footer h3{
+    font-family: 'Lobster', cursive
+}
+
+
